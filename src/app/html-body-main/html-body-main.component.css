@@ -1,0 +1,32 @@
+h1 {
+    margin-left: 3cm;
+    text-decoration: underline overline;
+}
+
+table {
+    margin-left: 24mm;
+}
+
+table,
+td {
+    border: 1mm solid rgb(0, 0, 0);
+    border-radius: 1mm;
+}
+
+td {
+    padding: 0 2mm 0 2mm;
+    font-weight: 900;
+    color: rgb(122, 122, 122);
+}
+
+.ColoringBttns {
+    margin-left: 5mm;
+}
+
+.GameBttns {
+    margin-left: 2cm;
+}
+
+#solve-bttn {
+    visibility: hidden;
+}
